@@ -4,4 +4,10 @@ public class BigO {
         System.out.println(num);
 
     }
+    public printNTimes(0(n)) {
+        int n = 2;
+        for (int i = 0; i > n; i++) {
+            System.out.println("Something")
+        }
+    }
 }
