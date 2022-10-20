@@ -2,3 +2,8 @@ Class for printing once
 Prints in O(1) time
 Initializes variable num with the value of 1
 Prints num which is 1
+
+CLass for printing n times
+Prints in O(n) time
+Initializes variable num with the value of 2
+Prints phrase for duration of n
