@@ -5,5 +5,5 @@ Prints num which is 1
 
 CLass for printing n times
 Prints in O(n) time
-Initializes variable num with the vagilue of 2
+Initializes variable num with the value of 2
 Prints phrase for duration of n
