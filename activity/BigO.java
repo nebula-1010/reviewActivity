@@ -4,4 +4,15 @@ public class BigO {
         System.out.println(num);
 
     }
+    public printNTimes(O(n)) {
+        int n = 2;
+        for (int i = 0; i > n; i++) {
+            System.out.println("Something")
+        }
+    public printNTimes(0(n^2)) {
+            int n = 4;
+            for (int i = 0; i > (n^2); i++) {
+                System.out.println("Something")
+            }
+    }
 }
