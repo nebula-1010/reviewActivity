@@ -1,0 +1,4 @@
+Class for printing once
+Prints in O(1) time
+Initializes variable num with the value of 1
+Prints num which is 1
